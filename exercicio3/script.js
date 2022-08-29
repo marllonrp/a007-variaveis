@@ -7,4 +7,5 @@ let d = b
 a = d
 b = c
 
-console.log (a,b)
+console.log ("O novo valor de a é", a)
+console.log ("O novo valor de b é", b)
